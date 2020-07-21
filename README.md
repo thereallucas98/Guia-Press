@@ -12,7 +12,7 @@ _________
 <h2 align="center"> 📷 Screenshot do projeto: </h2>
 <p align="center">
 <h1> Página Principal </h1>
-<img width="600" height="400" src="/public/img/guia-press-main.jpg">
+<img width="auto" height="400" src="/public/img/guia-press-main.jpg">
 </p>
 
 _________
